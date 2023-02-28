@@ -1,0 +1,1 @@
+Using transformer for detecting regularity in random number generation to increase contributions on github.
